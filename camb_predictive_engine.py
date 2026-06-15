@@ -3,7 +3,7 @@
 # ========================================================================
 # Formula Name: El Elyon’s Equation (Advanced Physics & CAMB Extension)
 # Branch: advanced-physics-derivation (Version 3.0-Alpha)
-# Steward/Author: [Insert Your Name, Initials, or Online Pseudonym]
+# Steward/Author: Kimberly Kadatz
 #
 # Licensed under the Creative Commons Attribution-ShareAlike 4.0 
 # International License. http://creativecommons.org
